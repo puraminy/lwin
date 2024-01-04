@@ -1,0 +1,7 @@
+README.md
+setup.py
+lwin.egg-info/PKG-INFO
+lwin.egg-info/SOURCES.txt
+lwin.egg-info/dependency_links.txt
+lwin.egg-info/requires.txt
+lwin.egg-info/top_level.txt

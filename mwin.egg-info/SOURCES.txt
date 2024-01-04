@@ -1,0 +1,7 @@
+README.md
+setup.py
+mwin.egg-info/PKG-INFO
+mwin.egg-info/SOURCES.txt
+mwin.egg-info/dependency_links.txt
+mwin.egg-info/requires.txt
+mwin.egg-info/top_level.txt
