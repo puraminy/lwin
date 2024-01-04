@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'pyperclip',
-        'textwrap',
+        'textwrap3',
     ],
 )
 
